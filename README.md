@@ -1,4 +1,4 @@
-# KeyAuth-CSGO-Loader
+# KeyAuth-CSGO-Loader (Outdated)
 Build: x86 Release
 
 x86 Libs: https://x86libs.netlify.app/libs.zip
